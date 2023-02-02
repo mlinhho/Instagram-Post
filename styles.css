@@ -1,0 +1,58 @@
+body{
+    font-family:"Roboto";
+    background-color: black;
+}
+.post{
+    width:500px;
+    margin:0 auto;
+    background-color: white;
+}
+strong{
+    font-weight:weight 700px;
+}
+.header{
+    display:flex;
+    padding-top:20px;
+}
+.profilepic{
+    float:left;
+    padding-left:15px;
+}
+.username{
+    margin-left:10px;
+    margin-top:-5px;
+}
+.location{
+    margin-left:10px;
+    margin-top:-15px;
+}
+#more{
+    float:right;
+    padding-left:355px;
+}
+img{
+    width: 500px;
+}
+.socialsleft{
+    padding-left: 10px;
+    padding-top:10px;
+}
+#heart{
+    padding-right:3px;
+}
+#message{
+    padding-right:3px;
+}
+#bookmark{
+    float:right;
+    padding-right: 20px;
+    margin-top: -30px;
+}
+.statdetails{
+    padding:10px;
+}
+.caption{
+    padding-left:10px;
+    padding-right:10px;
+    padding-bottom:30px;
+}
